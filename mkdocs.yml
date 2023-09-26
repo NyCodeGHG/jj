@@ -43,7 +43,7 @@ nav:
       - 'Tutorial and Birds-Eye View': 'tutorial.md'
       - 'Working with GitHub': 'github.md'
 
-- FAQ: 'FAQ.md'
+- FAQ: 'faq.md'
 
 - Concepts:
       - 'Working Copy': 'working-copy.md'
